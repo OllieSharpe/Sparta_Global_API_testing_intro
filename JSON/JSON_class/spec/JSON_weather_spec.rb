@@ -129,7 +129,7 @@ describe 'JSON_weather' do
       expect(@weather_data.get_visibility).to be_kind_of(Integer)
     end
 
-    # not sure how this values should look
+    # not sure how this value should look
 
   end
 
